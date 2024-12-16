@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/awasthipradip" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/awasthipradip?logo=twitter&style=for-the-badge" alt="https://twitter.com/awasthipradip" /></a> </p>
 
-- 🔭 I’m currently working on **Dukaan**
+- 🔭 I’m currently working on app called **Dukaan**.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradip-awasthi-2154a099/](https://www.linkedin.com/in/pradip-awasthi-2154a099/)
+- 👨‍💻 All of my projects are available here.
 
 - 💬 Ask me about **Android, IOS, Jetpack Compose, SwiftUI, UIKit, Swift, Kotlin**
 
