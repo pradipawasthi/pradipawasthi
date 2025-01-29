@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/awasthipradip" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/awasthipradip?logo=twitter&style=for-the-badge" alt="https://twitter.com/awasthipradip" /></a> </p>
 
-- 🔭 I’m currently working on app called **Dukaan**.
+- 🔭 I’m currently working on app called **Timepass**.
 
 - 👨‍💻 All of my projects are available here.
 
