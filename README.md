@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/awasthipradip" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/awasthipradip?logo=twitter&style=for-the-badge" alt="https://twitter.com/awasthipradip" /></a> </p>
 
-- 🔭 I’m currently working on app called **Timepass**.
+- 🔭 I’m currently working on an app called **Timepass**.
 
 - 👨‍💻 All of my projects are available here.
 
 - 💬 Ask me about **Android, IOS, Jetpack Compose, SwiftUI, UIKit, Swift, Kotlin**
 
-- 📫 How to reach me **pradip701@gmail.com**
+- 📫 How to reach me **pradipawasthi701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
